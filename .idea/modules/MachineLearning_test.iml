@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="MachineLearning:test" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="com.github.leonardoaramaki" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="2" platform="JVM 1.6" useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../build/kotlin-classes/test" />
+          <option name="classpath" value="$MODULE_DIR$/../../build/classes/main:/home/leo/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre8/1.1.2-2/dd267c09da9c17ca21037429205eb12bf81489f7/kotlin-stdlib-jre8-1.1.2-2.jar:/home/leo/.gradle/caches/modules-2/files-2.1/koma/backend-matrix-mtj/0.10/30eb02a3eaf3c8ff1eb2514d1ae7f19ba08fe1d1/backend-matrix-mtj-0.10.jar:/home/leo/.gradle/caches/modules-2/files-2.1/koma/core/0.10/26cdba5b173e9615a757d177f641cfe72e401559/core-0.10.jar:/home/leo/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.2-2/cec67c14515d8af92ae3e20e27b6da50a26fde84/kotlin-stdlib-jre7-1.1.2-2.jar:/home/leo/.gradle/caches/modules-2/files-2.1/com.googlecode.matrix-toolkits-java/mtj/1.0.4/e14ed840ff5e15de92dba2d1af29201fa70a0f35/mtj-1.0.4.jar:/home/leo/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.jar:/home/leo/.gradle/caches/modules-2/files-2.1/org.knowm.xchart/xchart/3.1.0/3ae1c03d30c72fdd25ef7ef0f2f8ccead8a9a9e1/xchart-3.1.0.jar:/home/leo/.gradle/caches/modules-2/files-2.1/com.github.fommil.netlib/all/1.1.2/f235011206ac009adad2d6607f222649aba5ca9e/all-1.1.2.pom:/home/leo/.gradle/caches/modules-2/files-2.1/de.erichseifert.vectorgraphics2d/VectorGraphics2D/0.11/f3bf8fe05b7997e03941bf77428598137500c300/VectorGraphics2D-0.11.jar:/home/leo/.gradle/caches/modules-2/files-2.1/net.sourceforge.f2j/arpack_combined_all/0.1/225619a060b42605b4d9fd4af11815664abf26eb/arpack_combined_all-0.1.jar:/home/leo/.gradle/caches/modules-2/files-2.1/com.github.fommil.netlib/core/1.1.2/574b480eca62f535fad6d259e144fee3ef24b66e/core-1.1.2.jar:/home/leo/.gradle/caches/modules-2/files-2.1/com.github.fommil.netlib/netlib-native_ref-osx-x86_64/1.1/80da53ec862f283dc3b191b9dbd3166ea6671831/netlib-native_ref-osx-x86_64-1.1-natives.jar:/home/leo/.gradle/caches/modules-2/files-2.1/com.github.fommil.netlib/netlib-native_ref-linux-x86_64/1.1/5a3e5787d03c39790d5ae08cce189dd1ccc4a38/netlib-native_ref-linux-x86_64-1.1-natives.jar:/home/leo/.gradle/caches/modules-2/files-2.1/com.github.fommil.netlib/netlib-native_ref-linux-i686/1.1/eedd845b214aea560bce317d778ebb52f8f46038/netlib-native_ref-linux-i686-1.1-natives.jar:/home/leo/.gradle/caches/modules-2/files-2.1/com.github.fommil.netlib/netlib-native_ref-win-x86_64/1.1/4ab54511c2844546279d9f8e427c73953b794686/netlib-native_ref-win-x86_64-1.1-natives.jar:/home/leo/.gradle/caches/modules-2/files-2.1/com.github.fommil.netlib/netlib-native_ref-win-i686/1.1/167fb794a26cb0bfc74890c704c7137b1d5b50fd/netlib-native_ref-win-i686-1.1-natives.jar:/home/leo/.gradle/caches/modules-2/files-2.1/com.github.fommil.netlib/netlib-native_ref-linux-armhf/1.1/ec467162f74710fd8897cff6888534ceaf297d9a/netlib-native_ref-linux-armhf-1.1-natives.jar:/home/leo/.gradle/caches/modules-2/files-2.1/com.github.fommil.netlib/netlib-native_system-osx-x86_64/1.1/d724e33675dc8eaa5c8fcb05a3aaca6f3339afa7/netlib-native_system-osx-x86_64-1.1-natives.jar:/home/leo/.gradle/caches/modules-2/files-2.1/com.github.fommil.netlib/netlib-native_system-linux-x86_64/1.1/163e88facabe7fa29952890dc2d3429e28501120/netlib-native_system-linux-x86_64-1.1-natives.jar:/home/leo/.gradle/caches/modules-2/files-2.1/com.github.fommil.netlib/netlib-native_system-linux-i686/1.1/dd43225560dbd9115d306f9be3ca195aed236b78/netlib-native_system-linux-i686-1.1-natives.jar:/home/leo/.gradle/caches/modules-2/files-2.1/com.github.fommil.netlib/netlib-native_system-linux-armhf/1.1/27ae9f6a9c88b3f8d12ffa52d62941615f8ed416/netlib-native_system-linux-armhf-1.1-natives.jar:/home/leo/.gradle/caches/modules-2/files-2.1/com.github.fommil.netlib/netlib-native_system-win-x86_64/1.1/222c7915be1daf1c26a4206f375d4957ae5f9d81/netlib-native_system-win-x86_64-1.1-natives.jar:/home/leo/.gradle/caches/modules-2/files-2.1/com.github.fommil.netlib/netlib-native_system-win-i686/1.1/c25fd1881cf93f7716f47b7deec859f6b6b7be50/netlib-native_system-win-i686-1.1-natives.jar:/home/leo/.gradle/caches/modules-2/files-2.1/com.github.fommil.netlib/native_ref-java/1.1/408c71ffbc3646dda7bee1e22bf19101e5e9ee90/native_ref-java-1.1.jar:/home/leo/.gradle/caches/modules-2/files-2.1/com.github.fommil.netlib/native_system-java/1.1/3c6a2455f96b354a6940dce1393abb35ed7641da/native_system-java-1.1.jar:/home/leo/.gradle/caches/modules-2/files-2.1/com.github.fommil/jniloader/1.1/4840f897eeb54d67ee14e478f8a45cc9937f3ce1/jniloader-1.1.jar:/home/leo/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.2-2/2b22828f027e103dcd45f3aa240338bfdb53d16b/kotlin-stdlib-1.1.2-2.jar:/home/leo/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="MachineLearning_main" />
+          <option name="jvmTarget" value="1.6" />
+          <option name="addCompilerBuiltIns" value="true" />
+          <option name="loadBuiltInsFromDependencies" value="true" />
+          <option name="languageVersion" value="1.1" />
+          <option name="apiVersion" value="1.1" />
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="coroutinesWarn" value="true" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../build/classes/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="MachineLearning_main" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jre8:1.1.2-2" level="project" />
+    <orderEntry type="library" name="Gradle: koma:backend-matrix-mtj:0.10" level="project" />
+    <orderEntry type="library" name="Gradle: koma:core:0.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jre7:1.1.2-2" level="project" />
+    <orderEntry type="library" name="Gradle: com.googlecode.matrix-toolkits-java:mtj:1.0.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.21" level="project" />
+    <orderEntry type="library" name="Gradle: org.knowm.xchart:xchart:3.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.fommil.netlib:all:pom:1.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: de.erichseifert.vectorgraphics2d:VectorGraphics2D:0.11" level="project" />
+    <orderEntry type="library" name="Gradle: net.sourceforge.f2j:arpack_combined_all:0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.fommil.netlib:core:1.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.fommil.netlib:netlib-native_ref-osx-x86_64:natives:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.fommil.netlib:netlib-native_ref-linux-x86_64:natives:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.fommil.netlib:netlib-native_ref-linux-i686:natives:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.fommil.netlib:netlib-native_ref-win-x86_64:natives:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.fommil.netlib:netlib-native_ref-win-i686:natives:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.fommil.netlib:netlib-native_ref-linux-armhf:natives:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.fommil.netlib:netlib-native_system-osx-x86_64:natives:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.fommil.netlib:netlib-native_system-linux-x86_64:natives:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.fommil.netlib:netlib-native_system-linux-i686:natives:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.fommil.netlib:netlib-native_system-linux-armhf:natives:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.fommil.netlib:netlib-native_system-win-x86_64:natives:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.fommil.netlib:netlib-native_system-win-i686:natives:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.fommil.netlib:native_ref-java:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.fommil.netlib:native_system-java:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.fommil:jniloader:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.1.2-2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="MachineLearning_main" />
+</module>
